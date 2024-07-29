@@ -1,0 +1,9 @@
+export type { IAddress } from "./IAddress";
+export type { ICard } from "./ICard";
+export type { ICardInput } from "./ICardInput";
+export type { IImage } from "./IImage";
+export type { IJWTPayload } from './IJWTPayload';
+export type { ILogin } from "./ILogin";
+export type { IName } from "./IName";
+export type { IUser } from "./IUser";
+export type { IUserInput } from "./IUserInput";
